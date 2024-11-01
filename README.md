@@ -16,7 +16,7 @@
   <tr>
     <!-- GitHub Stats on the left -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Myself-Kishore&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Myself-Kishore&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <!-- Streak Stats on the right -->
     <td>
