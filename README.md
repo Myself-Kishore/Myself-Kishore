@@ -18,14 +18,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Myself-Kishore&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <!-- Streak Stats on the right -->
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myself-Kishore&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
+    <!-- Top Languages on the right -->
     <td colspan="2" style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myself-Kishore&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
