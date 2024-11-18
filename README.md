@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Sohatej Naga Kishore</h1>
 <h3 align="center">⚡Half Artist - Half Data Scientist – 100% developer⚡</h3>
-🔭 I’m currently working on Data Science & Machine Learning<br>👯 I’m looking to collaborate on UI/UX Designing & React Native<br>🤝 I’m looking for help with engineering creative ML Applications<br>🌱 I’m currently learning React Native and DSA{CPP}<br>💬 Ask me about Python, Data Science and Machine Learning<br>⚡ Fun fact I think I am a coder with a split personality – one side trains models, the other styles buttons! 😄
+🔭 I’m currently working on Data Science & Machine Learning<br>👯 I’m looking to collaborate on UI/UX Designing<br>🤝 I’m looking for help with engineering creative ML Applications<br>🌱 I’m currently learning about Life<br>💬 Ask me about Python, Data Science and Machine Learning<br>⚡ Fun fact I think I am a coder with a split personality – one side trains models, the other styles buttons! 😄
 
 
 ## 🌐 _Socials_
